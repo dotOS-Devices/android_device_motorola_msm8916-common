@@ -14,6 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+-include vendor/motorola/msm8916-common/BoardConfigVendor.mk
+
 VENDOR_PATH := device/motorola/msm8916-common
 
 BOARD_VENDOR := motorola-qcom
