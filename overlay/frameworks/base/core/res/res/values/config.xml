@@ -250,4 +250,7 @@
     <!-- Control whether Night display is available. This should only be enabled on devices
            with HWC 2.0 or higher. -->
     <bool name="config_nightDisplayAvailable">false</bool>
+    
+    <!-- Whether the device supports Smart Pixels -->
+    <bool name="config_enableSmartPixels">true</bool>
 </resources>
